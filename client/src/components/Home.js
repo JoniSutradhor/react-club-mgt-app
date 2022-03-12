@@ -33,6 +33,7 @@ export const Home = () => {
             setLoading(false);
         }
         getMember();
+	  return () => { }
     }, [memberList]);
     // Load Member Data
 
