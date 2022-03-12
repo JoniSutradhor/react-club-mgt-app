@@ -1,0 +1,2 @@
+export const CREATE_MEMBER = 'CREATE_MEMBER';
+export const DELETE_MEMBER = 'DELETE_MEMBER';
